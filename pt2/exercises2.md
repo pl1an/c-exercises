@@ -47,8 +47,8 @@
 21- lei um número inteiro (N) e depois leia outros N números inteiros. ao final, emprima quantos são pares, quantos são impares, quantos são positivos e quantos são negativos (considere zeros como nem positivos ou negativos).  
 *Input: 5 -1 4 0 32 -25*  
 *Output: even: 3  
-         odd: 2
-         positives: 2
+         odd: 2  
+         positives: 2  
          negatives: 2*  
   
 22- leia 3 valores float (a, b, c) dos lados de um triangulo, e emprima se: é impossível formar um triângulo, o triângulo é retângulo, obtuso ou acutângulo, se é equilátero e se é isósceles.  
