@@ -16,17 +16,15 @@
 *Input: 13 12 44 -294 55 -1 0*  
 *Output:*  
   
-15- leia números até que um deles seja positivo e impar (number). então emprima o seguinte padrão baseado no número (number).
+15- leia números até que um deles seja positivo e impar (number). então emprima o seguinte padrão baseado no número (number).  
 *Input: 12 0 -1 -6 4 1204 5*  
 *Output: 1 2 3 4 5  
          2 3 4  
          3*  
   
 16- leia um número inteiro (N) e leia N números inteiros depois. Ao final, emprima o maior e o menor número.  
-*Input: 5  
-        1 10 23 -8 0*  
-*Output: smaller: -8  
-         larger: 23*  
+*Input: 5  1 10 23 -8 0*  
+*Output: smaller: -8  larger: 23*  
   
 17- refaça o exercício dois para que ele não aceite mais dois inputs iguais, e continue pedindo novos até que (a, b) sejam diferentes.  
 *Input: 5 5 4 4 0 0 85 85 -1 -1 3 -5*  
