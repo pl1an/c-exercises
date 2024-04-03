@@ -52,6 +52,6 @@
 *Input: 1 2 3/n 4 5 6/n 7 8 9\n1 2 3/n 4 5 6/n 7 8 9*  
 *Output: 30 36 42\n66 81 96\n102 126 150*  
   
-48- desafio: crie um array com até 3000 elementos inteiros aleatórios e faça um algorítimo para ordená-lo (menor-maior).
+48- desafio: crie um array com até 3000 elementos inteiros aleatórios e faça um algorítimo para ordená-lo (menor-maior).  
 *Input: 4 5 6 -1 8 10 4 5*  
 *Output: -1 4 4 5 5 6 8 10*  
