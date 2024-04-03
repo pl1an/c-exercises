@@ -32,11 +32,11 @@
 *Input: 1 2 3 4 5 6 7 8\n8 7 6 5 4 3 2 1*  
 *Output: 3.33*  
   
-43- escaneie 6 inteiros duas vezes e os armazene em dois arrays distintos. emprima a soma dos elementos do array1 multiplicados pelo elemento do mesmo index no array2.
+43- escaneie 6 inteiros duas vezes e os armazene em dois arrays distintos. emprima a soma dos elementos do array1 multiplicados pelo elemento do mesmo index no array2.  
 *Input: 1 2 3 4 5 6\n1 2 3 4 5 6*  
 *Output: 91*  
   
-44- calcule e emprima os vinte primeiros elementos da sequência de finboacci (dica: adicione os dois primeiros manualmente).
+44- calcule e emprima os vinte primeiros elementos da sequência de finboacci (dica: adicione os dois primeiros manualmente).  
 *Input:*  
 *Output: 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181*  
   
@@ -44,11 +44,11 @@
 *Input:*  
 *Output: 1 1 2 6 24 120 720 5040 40320 362880 3628800 39916800 479001600 1932053504 1278945280*  
   
-46- escaneie e emprima os elementos de uma matriz 3x3 (array bidimensional, ou arrays aninhados).
+46- escaneie e emprima os elementos de uma matriz 3x3 (array bidimensional, ou arrays aninhados).  
 *Input: 1 2 3/n 4 5 6/n 7 8 9*  
 *Output: 1 2 3/n 4 5 6/n 7 8 9*  
   
-47- escaneie duas matrizes 3x3 e emprima o produto 3x3 delas.
+47- escaneie duas matrizes 3x3 e emprima o produto 3x3 delas.  
 *Input: 1 2 3/n 4 5 6/n 7 8 9\n1 2 3/n 4 5 6/n 7 8 9*  
 *Output: 30 36 42\n66 81 96\n102 126 150*  
   
