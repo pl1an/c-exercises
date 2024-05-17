@@ -1,4 +1,4 @@
-# Exercícios da terceira aula do curso.
+# Exercícios da quarta aula do curso.
 
 35- escaneie 6 inteiros e os armazene em um array. emprima os conteúdos do array.  
 *Input: 1 2 3 4 5 6*  
